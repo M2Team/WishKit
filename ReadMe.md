@@ -39,12 +39,18 @@ to rethink the design of Windows image servicing tool.
 - [ ] Modern UI based on XAML Islands with dark mode support.
 - [ ] Full featured command line version.
 - [ ] Support Windows Vista and later offline images.
-- [ ] Provide lightweight Windows image servicing SDK designed.
+- [ ] Provide lightweight Windows image servicing SDK.
 
 ## Currently Status
 
 Not started because I'm working on NanaZip 3.0's development. It will push the
 progress of the UI stack used in WishKit.
+
+## Maintenance Policy
+
+- The stability of Windows images are the No.1 priority.
+- Try best to provide the best execution performance.
+- Try best to provide the best cleanup results.
 
 ## Documents
 
